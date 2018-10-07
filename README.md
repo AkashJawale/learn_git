@@ -19,3 +19,11 @@
  - list files you have changed or need to Commit or add.
 
 ## 
+
+
+## how to do second commit
+  git pull
+  git status
+  git add <filename>
+  git commit -m <commit message>
+  git push
